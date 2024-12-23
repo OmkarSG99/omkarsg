@@ -1,0 +1,213 @@
+Friday, Nov 29th 2024
+========================
+Nov ...Dec ....Jan ...Feb...Mar 2025...
+9:30 am .....6 pm .....next 500 hrs ....approx. (4 months)
+Monday to Friday ......
+
+1) Mentor session ....LIVE online....
+   notes
+   assignment  
+
+2) ILearn ......pre recorded ..video 
+   (strengthen the concepts)
+
+3) IProductivity .....Prog P/F....Python, SQL, ....Java....
+
+4) ICapability ---- Testing the skills learnt....MCQ, one line answer....
+
+5) Projects
+
+6) Mock interviews....assessment...
+==============
+Stage I  v v v important 
+1) Buss Fundamentals and Industry (process)
+2) Excel ....
+==============================
+Stage II
+3) Prog fundamentals .....
+     |
+4) Python    <<<<
+5) SQL       <<<<
+6) concepts of git   <<< repository  << command based
+7) Linux OS     <<< command based 
+8) Cloud computing (AWS)
+===================================
+Stage III
+9) NumPy & Pandas    (Python lib)
+10) DW (data warehousing concepts)
+=====================================
+Stage IV
+11) Visualisation ....PowerBi (buss intelligence tool)
+====
+Stage V --- Projects, mocks    
+
+2-3 hrs / day 
+3-4 hrs practice /day
+   7 hrs....x 5 = 35 + 3  = 38 hrs/week
+38 x 4 = 160 hrs / month
+          x 4 months
+       --------
+        480 to 500 hrs
+       ---------
+
+Computer --- Machine (electronic)
+         1) provide input (data) <<<< user  I/O
+            Keyboard , mouse , sensors ...
+            digital pen ....
+   problem statement : how much tax needs to be paid by me to the govt.
+            income : salary , rent , investment , donation (40000 INR)
+                       |       |        |
+                      
+         2) processing <<< based on the detailed instructions
+            Central Processing Unit (CPU)
+              simple to complex activity 
+            rules are applied , buss process .....
+
+         3) output <<< as per the user's need/ expectations  
+            this is the tax which needs to be paid : 55000 INR
+                                                     XXXX
+                                                     46500 INR (new tax) 
+
+                               written on the "paper" <<< SOFT !!
+                                                 /
+                                                /
+Software --- set of detailed STEP by STEP instructions to achieve the output(objective)
+                                            |
+                                        which the machine can understand
+
+Hardware --- Mouse , KB , VDU ....feel and touch ......machine...
+             MotherBoard (elec circuit)
+                             |
+                             |
+                          metal (copper) ....HARD
+
+Father of computers :::  Charles Babbage 
+Pls find out .......
+Father of C
+Father of C++
+Father of Python
+Father of Internet
+Father of Networking
+Father of world wide web ... (www)
+Father of SQL ??? 
+
+>>>> Different types of Software 
+
+till you are in IT
+
+     off the shelf  (always ready)
+     
+  UTILITY software (READY to use ...99.50% ) 
+
+                       row & col
+                           /      effective pres     email,schedule
+                          /          /                   | 
+MS-Office suite (Word , Excel , PowerPoint , Access , Outlook)
+                   |            (templates)    |
+               document                     database mngt   
+
+System software 
+     |
+   manages the system
+                    \
+                     \
+                parts (of hardware)
+                       \
+                      OPERATING SYSTEM (OS)
+1) GUI based .....Windows MS ....version 11
+
+   Unix OS (Berkley)....1974-75......50 years.....90% ....foundation is laid
+       |
+2) Linux OS .... (more command based)
+
+         flavours of Linux ??? find this out....
+      Redhat 
+      Ubuntu
+
+
+Application Software 
+       \    RBI
+        \   /
+       Banking ......current and saving bank customers (SBI)
+                                                      10000 branches /India
+
+10000 x 10000 =   ???
+
+Deposit .....cheq , cash , DD , ....
+Withdraw .....cash 
+                   \
+                   Bank .....
+                   ATM
+                   GPay, PhonePe....(transfer of amt)  
+
+
+>>> Understand the domain...
+
+
+produces data
+
+data and information  (meaningful, decision making)
+ \           \
+raw       processed 
+78        Sunil has scored 78% in his II PUC
+Sunil
+
+                how      machines   time     cost     delivery      quote
+                       w1,w2 w3 w4,w5 8 to 6 pm
+components A    10000    M1 M2 M3    70 min  2.25     Feb 25, 2025   x
+components B    12000    M2 M4       25 min  3.10 
+
+                                                          |           |
+current order being processed , how many employ 
+.....
+.....
+.....
+
+x+15% ..... Feb 20th 2025 10000,12000 quality tested....
+
+1) customer satisfaction
+2) profit (amount >>> )
+3) quality parameters ....
+
+
+=======
+
+next topics of discussion .....some pointers.......
+Number system
+==============
+binary         0   1
+decimal        0 ....... 9 (10 digits)
+octal          0.....7     (8 digits)
+hexadecimal    0......9 A B C D E F (16 digits)
+
+
+Parts of computer
+CPU   ....... ALU Control Unit
+RAM / ROM
+ |
+  \
+  Heap memory
+  Stack memory  
+
+what is a compiler?
+what is a interpreter ?
+difference b/w them?
+
+different types of programming lang ?
+Pros and Cons
+
+>>>>>>> Data Engineer do ??????
+>>>>>>> Software Engg ????
+
+Student Details in an Engg college :::: XYZ
+
+Roll    Name         Semester  Branch     Score  whether having passport
+1626  Sushil Pandey     3      CS          78.22       True
+1872  Geetha Kapoor     2      Electronic  68.22       False
+....  ......           ...     .....       ......      ....
+  |
+ int     string       int      str        real(floating)  Boolean 
+
+
+
+
